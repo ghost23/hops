@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "hops-cli": "file:../packages/cli",
+    "hops-config": "file:../packages/config",
+    "hops-middleware": "file:../packages/middleware",
+    "hops-plugin": "file:../packages/plugin",
+    "hops-react": "file:../packages/react",
+    "hops-redux": "file:../packages/redux",
+    "hops-renderer": "file:../packages/renderer",
+    "hops-transpiler": "file:../packages/transpiler",
+    "react-helmet": "^5.2.0",
+    "react-redux": "^5.0.6",
+    "react-router": "^4.2.0",
+    "react-router-dom": "^4.2.2",
+    "redux": "^3.7.2",
+    "redux-thunk": "^2.2.0",
+    "semistandard": "^11.0.0"
+  }
+}
